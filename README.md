@@ -22,19 +22,19 @@ I specialize in building fast, modern websites and apps that scale beautifully a
   - [fleasy](https://pub.dev/packages/fleasy): A set of handy Flutter extensions
 
 - **Monopoly Mobile Banking**  
-  A banking companion app for Monopoly board games → [monopoly-mobile-banking](https://github.com/devj3ns/monopoly-mobile-banking)
+  A banking companion app for Monopoly board games → [monopoly-mobile-banking](https://github.com/jhb-dev/monopoly-mobile-banking)
 
 ---
 
 ### 🌐 Let's connect
-- [Twitter / X](https://twitter.com/devj3ns)
+- [Twitter / X](https://x.com/jhb-dev)
 - [LinkedIn](https://de.linkedin.com/in/jens-becker-6a9065178)
 
 ---
 
 ### 📊 GitHub Stats
 
-[![Jens' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devj3ns&count_private=true&theme=default&show_icons=true&hide_title=true)](https://github.com/devj3ns)
+[![Jens' GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhb-dev&count_private=true&theme=default&show_icons=true&hide_title=true)](https://github.com/jhb-dev)
 
 ---
 
