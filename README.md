@@ -27,7 +27,7 @@ I specialize in building fast, modern websites and apps that scale beautifully a
 ---
 
 ### 🌐 Let's connect
-- [Twitter / X](https://x.com/jhb-dev)
+- [Twitter / X](https://x.com/jhb_dev)
 - [LinkedIn](https://de.linkedin.com/in/jens-becker-6a9065178)
 
 ---
